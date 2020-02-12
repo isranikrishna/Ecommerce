@@ -23,17 +23,17 @@ body {
   color:var(--lightBlue);
 }
 
-.btn-black{
-  background: transparent;
+.btn-white{
+  
   text-transform: capitalize;
   font-size: 0.8rem !important;
-  color: var(--mainWhite);
+  background-color: var(--mainWhite);
   border-radius: 0 !important;
-  border: 0.1rem solid var(--mainDark) !important ;
+  border: 0.1rem solid var(--mainWhite) !important ;
 
 }
 
-.btn-black:hover {
+.btn-white:hover {
   background: var(--mainDark) !important;
   color: var(--mainWhite) !important ;
 
