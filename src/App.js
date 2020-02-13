@@ -26,7 +26,7 @@ import Modal from './components/Modal'
         
         
         
-        <Default/>
+        
 
       </React.Fragment>
        
